@@ -1,0 +1,46 @@
+body{
+    margin:auto;
+    text-align: center;
+    background-color: #73C088;
+}
+h1{
+    font-family: "Press Start 2P";
+    font-size: 55px;
+    margin: 10px auto;
+    color:#A9DFE2;
+}
+.PLAYERONE{
+font-family: "Josefin Sans Thin";
+font-size: 26px;
+font-style: bold;
+color: #A9DFE2;
+display:inline-block;
+margin-right: 250px;
+
+
+}
+.PLAYERTWO{
+    font-family: "Josefin Sans Thin";
+    font-size: 26px;
+    font-style: bold;
+    color: #A9DFE2;
+    display:inline-block;
+    margin-left: 250px;
+    
+    
+    }
+    img{
+        width: 250px; height: 250;
+        margin: 10%;
+        margin-top: 2%;
+    }
+button{
+    width: auto;
+    padding: 10px 18px;
+    background-color:  #015668;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 4px;
+    border:none;
+}    
